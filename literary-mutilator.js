@@ -1,8 +1,8 @@
 /**
- *changes the text color on a click event
+ *changes the background color on a click event
  **/
 function clickEvent() {
-	document.getElementById("click").style.Color = "blue";
+	document.getElementById("click").style.backgroundColor = "blue";
 }
 /**
  *changes the background color when moused over
