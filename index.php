@@ -16,7 +16,7 @@
 		<p>Chicken kielbasa turducken kevin. Pancetta shank ribeye pork chop pig biltong. Tail meatball pork chop prosciutto capicola. Drumstick bresaola ball tip sausage, pastrami turducken shoulder ham meatball shank strip steak flank. Pork loin porchetta sausage brisket. Bacon pastrami pig beef ball tip turkey shank turducken alcatra porchetta bresaola short ribs drumstick cow. Pancetta tri-tip boudin sirloin kevin ham hock landjaeger filet mignon pork frankfurter tongue beef ribs porchetta biltong.</p>
 	</div>
 		<div id="div1" ondrop="drop(ev)" ondragover="allowDrop(ev)">
-			<img src="frying-pan.jpg" alt="frying pan">
+			<img src="frying-pan.jpg" alt="frying-pan">
 		</div>
 	</body>
 </html>
