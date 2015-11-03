@@ -14,5 +14,5 @@ function mouseOver() {
  *reverts the text font when moused out
  **/
 function mouseOut() {
-	document.getElementById("mouse").style.font = "sans serif"
+	document.getElementById("mouse").style.font = "times new roman"
 }
