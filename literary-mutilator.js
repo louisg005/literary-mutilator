@@ -5,5 +5,8 @@ function clickEvent() {
 	document.getElementById("click").style.color = "blue";
 }
 /**
- *changes the background color when moused over
+ *changes the text font when moused over
  **/
+function mouseOver() {
+	document.getElementById("mouse").style.font = "comic sans";
+}
