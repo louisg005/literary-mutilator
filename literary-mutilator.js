@@ -19,20 +19,18 @@ function mouseOut() {
 /**
  *
  **/
-function allowDrop(ev) {
-	ev.preventDefault();
+function allowDrop(event) {
+	event.preventDefault();
 }
 /**
  *makes the text draggable?
  **/
-function drag(ev) {
-	ev.dataTransfer.setData("text", ev.target.id);
+function drag(event) {
 }
 /**
  *
  **/
-function drop(ev) {
-	ev.preventDefault();
-	var data = ev.dataTransfer.getData("text");
-	ev.target.appendChild(document.getElementById(data));
+function drop(event) {
+	//event.preventDefault();
+	event.target.appendChild(document.getElementById("drag1"));
 }
