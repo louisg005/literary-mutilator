@@ -8,5 +8,5 @@ function clickEvent() {
  *changes the text font when moused over
  **/
 function mouseOver() {
-	document.getElementById("mouse").style.fontFamily = "comic sans";
+	document.getElementById("mouse").style.fontFamily = "impact,charcoal,sans-serif";
 }
