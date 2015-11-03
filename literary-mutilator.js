@@ -10,3 +10,9 @@ function clickEvent() {
 function mouseOver() {
 	document.getElementById("mouse").style.fontFamily = "impact,charcoal,sans-serif";
 }
+/**
+ *reverts the text font when moused out
+ **/
+function mouseOut() {
+	document.getElementById("mouse").style.font = "sans serif"
+}
